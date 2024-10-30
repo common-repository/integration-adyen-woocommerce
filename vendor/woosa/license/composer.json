@@ -1,0 +1,11 @@
+{
+   "name": "woosa/license",
+   "version": "1.3.0",
+   "type": "library",
+   "require": {
+      "woosa/option": "1.*",
+      "woosa/request": "1.*",
+      "woosa/settings": "1.*",
+      "woosa/util": "1.*"
+   }
+}
